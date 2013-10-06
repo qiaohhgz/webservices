@@ -1,0 +1,187 @@
+<!DOCTYPE response [
+        <!ELEMENT response (info|results|options)*>
+        <!ELEMENT info (statusCode|messages|copyright)*>
+        <!ELEMENT statusCode (#PCDATA)>
+        <!ELEMENT messages (#PCDATA)>
+        <!ELEMENT copyright (imageUrl|imageAltText|text)*>
+        <!ELEMENT imageUrl (#PCDATA)>
+        <!ELEMENT imageAltText (#PCDATA)>
+        <!ELEMENT text (#PCDATA)>
+        <!ELEMENT results (result)*>
+        <!ELEMENT result (providedLocation|locations)*>
+        <!ELEMENT providedLocation (location)*>
+        <!ELEMENT location (street|adminArea5|adminArea3|adminArea4|postalCode|adminArea1|geocodeQuality|geocodeQualityCode|dragPoint|sideOfStreet|displayLatLng|linkId|type|latLng)*>
+        <!ELEMENT locations (location)*>
+        <!ELEMENT street (#PCDATA)>
+        <!ELEMENT adminArea5 (#PCDATA)>
+        <!ATTLIST adminArea5
+                type CDATA #REQUIRED>
+        <!ELEMENT adminArea3 (#PCDATA)>
+        <!ATTLIST adminArea3
+                type CDATA #REQUIRED>
+        <!ELEMENT adminArea4 (#PCDATA)>
+        <!ATTLIST adminArea4
+                type CDATA #REQUIRED>
+        <!ELEMENT postalCode (#PCDATA)>
+        <!ELEMENT adminArea1 (#PCDATA)>
+        <!ATTLIST adminArea1
+                type CDATA #REQUIRED>
+        <!ELEMENT geocodeQuality (#PCDATA)>
+        <!ELEMENT geocodeQualityCode (#PCDATA)>
+        <!ELEMENT dragPoint (#PCDATA)>
+        <!ELEMENT sideOfStreet (#PCDATA)>
+        <!ELEMENT displayLatLng (latLng)*>
+        <!ELEMENT latLng (lat|lng)*>
+        <!ELEMENT lat (#PCDATA)>
+        <!ELEMENT lng (#PCDATA)>
+        <!ELEMENT linkId (#PCDATA)>
+        <!ELEMENT type (#PCDATA)>
+        <!ELEMENT options (maxResults|thumbMaps|ignoreLatLngInput|boundingBox)*>
+        <!ELEMENT maxResults (#PCDATA)>
+        <!ELEMENT thumbMaps (#PCDATA)>
+        <!ELEMENT ignoreLatLngInput (#PCDATA)>
+        <!ELEMENT boundingBox (#PCDATA)>
+        ]>
+<response>
+    <info>
+        <statusCode>0</statusCode>
+        <messages/>
+        <copyright>
+            <imageUrl>http://api.mqcdn.com/res/mqlogo.gif</imageUrl>
+            <imageAltText>© 2013 MapQuest, Inc.</imageAltText>
+            <text>© 2013 MapQuest, Inc.</text>
+        </copyright>
+    </info>
+    <results>
+        <result>
+            <providedLocation>
+                <location>York,PA</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street/>
+                    <adminArea5 type="City">York</adminArea5>
+                    <adminArea3 type="State">Pennsylvania</adminArea3>
+                    <adminArea4 type="County">York County</adminArea4>
+                    <postalCode/>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>CITY</geocodeQuality>
+                    <geocodeQualityCode>A5XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>39.962398</lat>
+                            <lng>-76.727392</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>39.962398</lat>
+                        <lng>-76.727392</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>Red Lion</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street/>
+                    <adminArea5 type="City">Red Lion</adminArea5>
+                    <adminArea3 type="State">Pennsylvania</adminArea3>
+                    <adminArea4 type="County">York County</adminArea4>
+                    <postalCode/>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>CITY</geocodeQuality>
+                    <geocodeQualityCode>A5XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>39.900933</lat>
+                            <lng>-76.6058</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>39.900933</lat>
+                        <lng>-76.6058</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>19036</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street/>
+                    <adminArea5 type="City">Glenolden</adminArea5>
+                    <adminArea3 type="State">Pennsylvania</adminArea3>
+                    <adminArea4 type="County">Delaware County</adminArea4>
+                    <postalCode>19036</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ZIP</geocodeQuality>
+                    <geocodeQualityCode>Z1XXA</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>39.904027</lat>
+                            <lng>-75.293722</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>39.904027</lat>
+                        <lng>-75.293722</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>300 Granite Run Dr, Lancaster, PA</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>300 Granite Run Drive</street>
+                    <adminArea5 type="City">Lancaster</adminArea5>
+                    <adminArea3 type="State">Pennsylvania</adminArea3>
+                    <adminArea4 type="County">Lancaster County</adminArea4>
+                    <postalCode>17601</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1CAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>40.076423</lat>
+                            <lng>-76.330582</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>40.076423</lat>
+                        <lng>-76.330582</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+    </results>
+    <options>
+        <maxResults>1</maxResults>
+        <thumbMaps>true</thumbMaps>
+        <ignoreLatLngInput>false</ignoreLatLngInput>
+        <boundingBox/>
+    </options>
+</response>

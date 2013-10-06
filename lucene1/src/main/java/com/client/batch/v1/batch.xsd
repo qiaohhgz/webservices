@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="result">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="providedLocation"/>
+        <xs:element ref="locations"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="location">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element ref="street" minOccurs="0"/>
+        <xs:element ref="adminArea5" minOccurs="0"/>
+        <xs:element ref="adminArea3" minOccurs="0"/>
+        <xs:element ref="adminArea4" minOccurs="0"/>
+        <xs:element ref="postalCode" minOccurs="0"/>
+        <xs:element ref="adminArea1" minOccurs="0"/>
+        <xs:element ref="geocodeQuality" minOccurs="0"/>
+        <xs:element ref="geocodeQualityCode" minOccurs="0"/>
+        <xs:element ref="dragPoint" minOccurs="0"/>
+        <xs:element ref="sideOfStreet" minOccurs="0"/>
+        <xs:element ref="displayLatLng" minOccurs="0"/>
+        <xs:element ref="linkId" minOccurs="0"/>
+        <xs:element ref="type" minOccurs="0"/>
+        <xs:element ref="latLng" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="imageUrl" type="xs:string"/>
+  <xs:element name="street">
+    <xs:simpleType>
+      <xs:restriction base="xs:string">
+        <xs:enumeration value=""/>
+        <xs:enumeration value="300 Granite Run Drive"/>
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:element>
+  <xs:element name="lng">
+    <xs:simpleType>
+      <xs:restriction base="xs:string">
+        <xs:enumeration value="-76.727392"/>
+        <xs:enumeration value="-76.6058"/>
+        <xs:enumeration value="-75.293722"/>
+        <xs:enumeration value="-76.330582"/>
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:element>
+  <xs:element name="type" type="xs:string"/>
+  <xs:element name="messages" type="xs:string"/>
+  <xs:element name="info">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="statusCode"/>
+        <xs:element ref="messages"/>
+        <xs:element ref="copyright"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="response">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="info"/>
+        <xs:element ref="results"/>
+        <xs:element ref="options"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="statusCode" type="xs:string"/>
+  <xs:element name="boundingBox" type="xs:string"/>
+  <xs:element name="postalCode">
+    <xs:simpleType>
+      <xs:restriction base="xs:string">
+        <xs:enumeration value=""/>
+        <xs:enumeration value="19036"/>
+        <xs:enumeration value="17601"/>
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:element>
+  <xs:element name="results">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="result" maxOccurs="unbounded" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="sideOfStreet" type="xs:string"/>
+  <xs:element name="locations">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="location"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="lat">
+    <xs:simpleType>
+      <xs:restriction base="xs:string">
+        <xs:enumeration value="39.962398"/>
+        <xs:enumeration value="39.900933"/>
+        <xs:enumeration value="39.904027"/>
+        <xs:enumeration value="40.076423"/>
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:element>
+  <xs:element name="geocodeQualityCode">
+    <xs:simpleType>
+      <xs:restriction base="xs:string">
+        <xs:enumeration value="A5XAX"/>
+        <xs:enumeration value="Z1XXA"/>
+        <xs:enumeration value="L1CAX"/>
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:element>
+  <xs:element name="options">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="maxResults"/>
+        <xs:element ref="thumbMaps"/>
+        <xs:element ref="ignoreLatLngInput"/>
+        <xs:element ref="boundingBox"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="text" type="xs:string"/>
+  <xs:element name="latLng">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="lat"/>
+        <xs:element ref="lng"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="adminArea4">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute type="xs:string" name="type" use="optional"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="adminArea5">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute type="xs:string" name="type" use="optional"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="adminArea1">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute type="xs:string" name="type" use="optional"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="providedLocation">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="location"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="imageAltText" type="xs:string"/>
+  <xs:element name="adminArea3">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute type="xs:string" name="type" use="optional"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="copyright">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="imageUrl"/>
+        <xs:element ref="imageAltText"/>
+        <xs:element ref="text"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ignoreLatLngInput" type="xs:string"/>
+  <xs:element name="thumbMaps" type="xs:string"/>
+  <xs:element name="maxResults" type="xs:string"/>
+  <xs:element name="displayLatLng">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="latLng"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="linkId" type="xs:string"/>
+  <xs:element name="dragPoint" type="xs:string"/>
+  <xs:element name="geocodeQuality">
+    <xs:simpleType>
+      <xs:restriction base="xs:string">
+        <xs:enumeration value="CITY"/>
+        <xs:enumeration value="ZIP"/>
+        <xs:enumeration value="ADDRESS"/>
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:element>
+</xs:schema>

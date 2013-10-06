@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <info>
+        <statusCode>0</statusCode>
+        <messages/>
+        <copyright>
+            <imageUrl>http://api.mqcdn.com/res/mqlogo.gif</imageUrl>
+            <imageAltText>© 2013 MapQuest, Inc.</imageAltText>
+            <text>© 2013 MapQuest, Inc.</text>
+        </copyright>
+    </info>
+    <results>
+        <result>
+            <providedLocation>
+                <location>5327 N Saint Louis Ave Chicago IL</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>5327 North Saint Louis Avenue</street>
+                    <adminArea5 type="City">Chicago</adminArea5>
+                    <adminArea3 type="State">Illinois</adminArea3>
+                    <adminArea4 type="County">Cook</adminArea4>
+                    <postalCode>60625</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1CAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>41.978042</lat>
+                            <lng>-87.715924</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>41.978042</lat>
+                        <lng>-87.715924</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>PO Box 2271 Danville IL</location>
+            </providedLocation>
+            <locations/>
+        </result>
+        <result>
+            <providedLocation>
+                <location>611 N Rockford Ave Rockford IL</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>611 N Rockford Ave</street>
+                    <adminArea5 type="City">Rockford</adminArea5>
+                    <adminArea3 type="State">Illinois</adminArea3>
+                    <adminArea4 type="County">Winnebago</adminArea4>
+                    <postalCode>61107</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1AAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>42.273071</lat>
+                            <lng>-89.05817</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>42.273071</lat>
+                        <lng>-89.05817</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>2720 S Crowell St Chicago IL</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>2720 South Crowell Street</street>
+                    <adminArea5 type="City">Chicago</adminArea5>
+                    <adminArea3 type="State">Illinois</adminArea3>
+                    <adminArea4 type="County">Cook</adminArea4>
+                    <postalCode>60608</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>41.844044</lat>
+                            <lng>-87.657402</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>41.844044</lat>
+                        <lng>-87.657402</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>128 E 51st St Chicago IL</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>128 East 51st Street</street>
+                    <adminArea5 type="City">Chicago</adminArea5>
+                    <adminArea3 type="State">Illinois</adminArea3>
+                    <adminArea4 type="County">Cook</adminArea4>
+                    <postalCode>60615</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>41.802089</lat>
+                            <lng>-87.622207</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>41.802089</lat>
+                        <lng>-87.622207</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>1569 Childers Rd Marion IL</location>
+            </providedLocation>
+            <locations/>
+        </result>
+        <result>
+            <providedLocation>
+                <location>802 Stephanie Ln Winnebago IL</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>802 Stephanie Lane</street>
+                    <adminArea5 type="City">Winnebago</adminArea5>
+                    <adminArea3 type="State">Illinois</adminArea3>
+                    <adminArea4 type="County">Winnebago</adminArea4>
+                    <postalCode>61088</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1CAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>42.255891</lat>
+                            <lng>-89.231306</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>42.255891</lat>
+                        <lng>-89.231306</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>10711 S Sangamon St Chicago IL</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>10711 South Sangamon Street</street>
+                    <adminArea5 type="City">Chicago</adminArea5>
+                    <adminArea3 type="State">Illinois</adminArea3>
+                    <adminArea4 type="County">Cook</adminArea4>
+                    <postalCode>60643</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>41.699196</lat>
+                            <lng>-87.645978</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>41.699196</lat>
+                        <lng>-87.645978</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>1409 S Second Ave Morton IL</location>
+            </providedLocation>
+            <locations/>
+        </result>
+        <result>
+            <providedLocation>
+                <location>37 Fernwood Rd Montgomery IL</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>Fernwood Road</street>
+                    <adminArea5 type="City">Bradley Hills Grove</adminArea5>
+                    <adminArea3 type="State">Maryland</adminArea3>
+                    <adminArea4 type="County">Montgomery County</adminArea4>
+                    <postalCode>20817</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XXX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>39.005228</lat>
+                            <lng>-77.133258</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>39.005228</lat>
+                        <lng>-77.133258</lng>
+                    </latLng>
+                </location>
+                <location>
+                    <street>Fernwood Road</street>
+                    <adminArea5 type="City">Blanchard</adminArea5>
+                    <adminArea3 type="State">Texas</adminArea3>
+                    <adminArea4 type="County">Polk</adminArea4>
+                    <postalCode></postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XXX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>30.716323</lat>
+                            <lng>-95.048636</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>30.716323</lat>
+                        <lng>-95.048636</lng>
+                    </latLng>
+                </location>
+                <location>
+                    <street>Fernwood Road</street>
+                    <adminArea5 type="City">North Bethesda</adminArea5>
+                    <adminArea3 type="State">Maryland</adminArea3>
+                    <adminArea4 type="County">Montgomery County</adminArea4>
+                    <postalCode>20817</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XXX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>39.020485</lat>
+                            <lng>-77.134555</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>39.020485</lat>
+                        <lng>-77.134555</lng>
+                    </latLng>
+                </location>
+                <location>
+                    <street>Fernwood Road</street>
+                    <adminArea5 type="City">Stratton Woods</adminArea5>
+                    <adminArea3 type="State">Maryland</adminArea3>
+                    <adminArea4 type="County">Montgomery County</adminArea4>
+                    <postalCode>20817</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XXX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>39.012737</lat>
+                            <lng>-77.13327</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>39.012737</lat>
+                        <lng>-77.13327</lng>
+                    </latLng>
+                </location>
+                <location>
+                    <street>Fernwood Road</street>
+                    <adminArea5 type="City">Green Tree Manor</adminArea5>
+                    <adminArea3 type="State">Maryland</adminArea3>
+                    <adminArea4 type="County">Montgomery County</adminArea4>
+                    <postalCode>20817</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XXX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>39.009513</lat>
+                            <lng>-77.13327</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>39.009513</lat>
+                        <lng>-77.13327</lng>
+                    </latLng>
+                </location>
+                <location>
+                    <street>Fernwood Road</street>
+                    <adminArea5 type="City">Baltimore</adminArea5>
+                    <adminArea3 type="State">Maryland</adminArea3>
+                    <adminArea4 type="County">Baltimore</adminArea4>
+                    <postalCode>21030</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XXX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>39.473007</lat>
+                            <lng>-76.626746</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>39.473007</lat>
+                        <lng>-76.626746</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>208 23rd Ave Bellwood IL</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>208 23rd Avenue</street>
+                    <adminArea5 type="City">Bellwood</adminArea5>
+                    <adminArea3 type="State">Illinois</adminArea3>
+                    <adminArea4 type="County">Cook</adminArea4>
+                    <postalCode>60104</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1CAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>41.889231</lat>
+                            <lng>-87.861559</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>41.889231</lat>
+                        <lng>-87.861559</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>2723 Earle Ave Rosemead CA</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>2723 Earle Avenue</street>
+                    <adminArea5 type="City">Rosemead</adminArea5>
+                    <adminArea3 type="State">California</adminArea3>
+                    <adminArea4 type="County">Los Angeles County</adminArea4>
+                    <postalCode>91770</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1CAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>34.061227</lat>
+                            <lng>-118.084946</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>34.061227</lat>
+                        <lng>-118.084946</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>8483 Indian Trail Rd Ashley IL</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>Indian Trail Road</street>
+                    <adminArea5 type="City">Chapel Hill</adminArea5>
+                    <adminArea3 type="State">North Carolina</adminArea3>
+                    <adminArea4 type="County">Orange</adminArea4>
+                    <postalCode>27514</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XXX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>35.946723</lat>
+                            <lng>-79.050811</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>35.946723</lat>
+                        <lng>-79.050811</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>135 Ilene St Rainbow City AL</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>135 Ilene Street</street>
+                    <adminArea5 type="City">Rainbow City</adminArea5>
+                    <adminArea3 type="State">Alabama</adminArea3>
+                    <adminArea4 type="County">Etowah</adminArea4>
+                    <postalCode>35906</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>33.957013</lat>
+                            <lng>-86.048797</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>33.957013</lat>
+                        <lng>-86.048797</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>4101 Cornwallis Dr Virginia Beach VA</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>4101 Cornwallis Drive</street>
+                    <adminArea5 type="City">Virginia Beach</adminArea5>
+                    <adminArea3 type="State">Virginia</adminArea3>
+                    <adminArea4 type="County">Norfolk (city)</adminArea4>
+                    <postalCode>23452</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1CAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>36.837342</lat>
+                            <lng>-76.117148</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>36.837342</lat>
+                        <lng>-76.117148</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>635 Clyde Ave Mountain View CA</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>635 Clyde Avenue</street>
+                    <adminArea5 type="City">Mountain View</adminArea5>
+                    <adminArea3 type="State">California</adminArea3>
+                    <adminArea4 type="County">Santa Clara County</adminArea4>
+                    <postalCode>94043</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>37.401112</lat>
+                            <lng>-122.048353</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>37.401112</lat>
+                        <lng>-122.048353</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>117 Brittany Dr N Elmore AL</location>
+            </providedLocation>
+            <locations/>
+        </result>
+        <result>
+            <providedLocation>
+                <location>335 Coosa St Montgomery AL</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>335 Coosa Street</street>
+                    <adminArea5 type="City">Montgomery</adminArea5>
+                    <adminArea3 type="State">Alabama</adminArea3>
+                    <adminArea4 type="County">Montgomery</adminArea4>
+                    <postalCode>36104</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>32.381672</lat>
+                            <lng>-86.311702</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>32.381672</lat>
+                        <lng>-86.311702</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>1292 Ortiz Ct Sunnyvale CA</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>1292 Ortiz Court</street>
+                    <adminArea5 type="City">Sunnyvale</adminArea5>
+                    <adminArea3 type="State">California</adminArea3>
+                    <adminArea4 type="County">Santa Clara County</adminArea4>
+                    <postalCode>94089</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>37.399312</lat>
+                            <lng>-121.98853</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>37.399312</lat>
+                        <lng>-121.98853</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>124 Julie St Russellville AL</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>124 Julie Street</street>
+                    <adminArea5 type="City">Russellville</adminArea5>
+                    <adminArea3 type="State">Alabama</adminArea3>
+                    <adminArea4 type="County">Franklin</adminArea4>
+                    <postalCode>35653</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1CAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>34.53141</lat>
+                            <lng>-87.739251</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>34.53141</lat>
+                        <lng>-87.739251</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>9713 Westfield Pl Birmingham AL</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>9713 Westfield Place</street>
+                    <adminArea5 type="City">Birmingham</adminArea5>
+                    <adminArea3 type="State">Alabama</adminArea3>
+                    <adminArea4 type="County">Jefferson</adminArea4>
+                    <postalCode>35217</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1CAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>33.594606</lat>
+                            <lng>-86.727777</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>33.594606</lat>
+                        <lng>-86.727777</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>801 S University Blvd Mobile AL</location>
+            </providedLocation>
+            <locations/>
+        </result>
+        <result>
+            <providedLocation>
+                <location>14011 Ash Ave Flushing NY</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>Ash Avenue</street>
+                    <adminArea5 type="City">New York City</adminArea5>
+                    <adminArea3 type="State">New York</adminArea3>
+                    <adminArea4 type="County">Queens County</adminArea4>
+                    <postalCode>11355</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XXX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>40.759476</lat>
+                            <lng>-73.814675</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>40.759476</lat>
+                        <lng>-73.814675</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>236 Pinehill Cir Laceys Spring AL</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>236 Pinehill Circle</street>
+                    <adminArea5 type="City">Laceys Spring</adminArea5>
+                    <adminArea3 type="State">Alabama</adminArea3>
+                    <adminArea4 type="County">Morgan</adminArea4>
+                    <postalCode>35754</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1CAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>34.515384</lat>
+                            <lng>-86.61872</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>34.515384</lat>
+                        <lng>-86.61872</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>5053 Falling Creek Ln Birmingham AL</location>
+            </providedLocation>
+            <locations/>
+        </result>
+        <result>
+            <providedLocation>
+                <location>2716 Sunrise St Yorktown Heights NY</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>2716 Sunrise Street</street>
+                    <adminArea5 type="City">Yorktown Heights</adminArea5>
+                    <adminArea3 type="State">New York</adminArea3>
+                    <adminArea4 type="County">Westchester</adminArea4>
+                    <postalCode>10598</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>41.301564</lat>
+                            <lng>-73.779475</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>41.301564</lat>
+                        <lng>-73.779475</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>7761 Blackthorn Dr Indianapolis IN</location>
+            </providedLocation>
+            <locations/>
+        </result>
+        <result>
+            <providedLocation>
+                <location>1016 Morrison Ave Troy NY</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>Morrison Avenue</street>
+                    <adminArea5 type="City">Troy</adminArea5>
+                    <adminArea3 type="State"></adminArea3>
+                    <adminArea4 type="County">Rensselaer County</adminArea4>
+                    <postalCode>12180</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>42.70132</lat>
+                            <lng>-73.692315</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>42.70132</lat>
+                        <lng>-73.692315</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>17 N Main St Glen Ellyn IL</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>17 North Main Street</street>
+                    <adminArea5 type="City">Glen Ellyn</adminArea5>
+                    <adminArea3 type="State">Illinois</adminArea3>
+                    <adminArea4 type="County">DuPage County</adminArea4>
+                    <postalCode>60137</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>41.860368</lat>
+                            <lng>-88.067067</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>41.860368</lat>
+                        <lng>-88.067067</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>6248 N 104th St Milwaukee WI</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>6248 N 104th St</street>
+                    <adminArea5 type="City">Milwaukee</adminArea5>
+                    <adminArea3 type="State">Wisconsin</adminArea3>
+                    <adminArea4 type="County">Milwaukee County</adminArea4>
+                    <postalCode>53225</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1AAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>43.13115</lat>
+                            <lng>-88.041515</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>43.13115</lat>
+                        <lng>-88.041515</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>222 E Sycamore St Columbus Grove OH</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>222 East Sycamore Street</street>
+                    <adminArea5 type="City">Columbus Grove</adminArea5>
+                    <adminArea3 type="State">Ohio</adminArea3>
+                    <adminArea4 type="County">Putnam</adminArea4>
+                    <postalCode>45830</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>40.918193</lat>
+                            <lng>-84.054716</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>40.918193</lat>
+                        <lng>-84.054716</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>5102 Denview Way Baltimore MD</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>5102 Denview Way</street>
+                    <adminArea5 type="City">Cedonia</adminArea5>
+                    <adminArea3 type="State">Maryland</adminArea3>
+                    <adminArea4 type="County">Baltimore</adminArea4>
+                    <postalCode>21206</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1AXX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>39.32586</lat>
+                            <lng>-76.533769</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>39.32586</lat>
+                        <lng>-76.533769</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>E9157 Blueberry Rd New London WI</location>
+            </providedLocation>
+            <locations/>
+        </result>
+        <result>
+            <providedLocation>
+                <location>10002 Saint Vincent Cir Cypress CA</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>10002 Saint Vincent Circle</street>
+                    <adminArea5 type="City">Cypress</adminArea5>
+                    <adminArea3 type="State">California</adminArea3>
+                    <adminArea4 type="County">Orange</adminArea4>
+                    <postalCode>90630</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1CAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>33.816518</lat>
+                            <lng>-118.042308</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>33.816518</lat>
+                        <lng>-118.042308</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>1178 County Road 39 Linden AL</location>
+            </providedLocation>
+            <locations/>
+        </result>
+        <result>
+            <providedLocation>
+                <location>3089 Florence Ave San Jose CA</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>3089 Florence Avenue</street>
+                    <adminArea5 type="City">Santa Clara</adminArea5>
+                    <adminArea3 type="State">California</adminArea3>
+                    <adminArea4 type="County">Santa Clara County</adminArea4>
+                    <postalCode>95127</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1CXX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>37.363024</lat>
+                            <lng>-121.826029</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>37.363024</lat>
+                        <lng>-121.826029</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>2700 Mizell Ave Fernandina Beach FL</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>2700 Mizell Avenue</street>
+                    <adminArea5 type="City">Fernandina Beach</adminArea5>
+                    <adminArea3 type="State">Florida</adminArea3>
+                    <adminArea4 type="County">Nassau County</adminArea4>
+                    <postalCode>32034</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>30.630348</lat>
+                            <lng>-81.440507</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>30.630348</lat>
+                        <lng>-81.440507</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>110 Spicewood Ct Atlanta GA</location>
+            </providedLocation>
+            <locations/>
+        </result>
+        <result>
+            <providedLocation>
+                <location>650 Main St, Ste 2 Grand Junction CO</location>
+            </providedLocation>
+            <locations/>
+        </result>
+        <result>
+            <providedLocation>
+                <location>3001 Avon St Midland MI</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>3001 Avon Street</street>
+                    <adminArea5 type="City">Midland</adminArea5>
+                    <adminArea3 type="State">Michigan</adminArea3>
+                    <adminArea4 type="County">Midland</adminArea4>
+                    <postalCode>48640</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>43.615206</lat>
+                            <lng>-84.284113</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>43.615206</lat>
+                        <lng>-84.284113</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>1232 Carmelita Dr Sierra Vista AZ</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>1232 Carmelita Drive</street>
+                    <adminArea5 type="City">Sierra Vista</adminArea5>
+                    <adminArea3 type="State">Arizona</adminArea3>
+                    <adminArea4 type="County">Cochise County</adminArea4>
+                    <postalCode>85635</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1CAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>31.559504</lat>
+                            <lng>-110.285886</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>31.559504</lat>
+                        <lng>-110.285886</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>5 Calvert St Pittston PA</location>
+            </providedLocation>
+            <locations/>
+        </result>
+        <result>
+            <providedLocation>
+                <location>2150 Grass Valley Hwy Auburn CA</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>2150 Grass Valley Highway</street>
+                    <adminArea5 type="City">Auburn Hills Mobile Estates</adminArea5>
+                    <adminArea3 type="State">California</adminArea3>
+                    <adminArea4 type="County">Placer</adminArea4>
+                    <postalCode>95603</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1CXX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>38.934453</lat>
+                            <lng>-121.092522</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>38.934453</lat>
+                        <lng>-121.092522</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>1125 Riley St Folsom CA</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>1125 Riley Street</street>
+                    <adminArea5 type="City">Sacramento</adminArea5>
+                    <adminArea3 type="State">California</adminArea3>
+                    <adminArea4 type="County">Sacramento</adminArea4>
+                    <postalCode>95630</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1CXX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>38.67056</lat>
+                            <lng>-121.164118</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>38.67056</lat>
+                        <lng>-121.164118</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>4933 Manderson St Omaha NE</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>4933 Manderson Street</street>
+                    <adminArea5 type="City">Omaha</adminArea5>
+                    <adminArea3 type="State">Nebraska</adminArea3>
+                    <adminArea4 type="County">Douglas</adminArea4>
+                    <postalCode>68104</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1CAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>41.293188</lat>
+                            <lng>-95.988624</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>41.293188</lat>
+                        <lng>-95.988624</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>49 Avenel Pl Fort Thomas KY</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>49 Avenel Place</street>
+                    <adminArea5 type="City">Fort Thomas</adminArea5>
+                    <adminArea3 type="State">Kentucky</adminArea3>
+                    <adminArea4 type="County">Campbell</adminArea4>
+                    <postalCode>41075</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>39.076435</lat>
+                            <lng>-84.446097</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>39.076435</lat>
+                        <lng>-84.446097</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>4029 Trenton St Detroit MI</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>4029 Trenton St</street>
+                    <adminArea5 type="City">Detroit</adminArea5>
+                    <adminArea3 type="State">Michigan</adminArea3>
+                    <adminArea4 type="County">Wayne</adminArea4>
+                    <postalCode>48210</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1AAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>42.323347</lat>
+                            <lng>-83.142758</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>42.323347</lat>
+                        <lng>-83.142758</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>10010 Hulda Ave Cleveland OH</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>10010 Hulda Ave</street>
+                    <adminArea5 type="City">Cleveland</adminArea5>
+                    <adminArea3 type="State">Ohio</adminArea3>
+                    <adminArea4 type="County">Cuyahoga County</adminArea4>
+                    <postalCode>44104</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1AAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>41.486014</lat>
+                            <lng>-81.615234</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>41.486014</lat>
+                        <lng>-81.615234</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>1370 Powell Rd Brookhaven PA</location>
+            </providedLocation>
+            <locations/>
+        </result>
+        <result>
+            <providedLocation>
+                <location>1301 N McColl Rd Edinburg TX</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>North McColl Road</street>
+                    <adminArea5 type="City">Edinburg</adminArea5>
+                    <adminArea3 type="State">Texas</adminArea3>
+                    <adminArea4 type="County">Hidalgo</adminArea4>
+                    <postalCode>78539</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>26.306077</lat>
+                            <lng>-98.194204</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>26.306077</lat>
+                        <lng>-98.194204</lng>
+                    </latLng>
+                </location>
+                <location>
+                    <street>North McColl Road</street>
+                    <adminArea5 type="City">Edinburg</adminArea5>
+                    <adminArea3 type="State">Texas</adminArea3>
+                    <adminArea4 type="County">Hidalgo</adminArea4>
+                    <postalCode>78539</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>26.317432</lat>
+                            <lng>-98.192201</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>26.317432</lat>
+                        <lng>-98.192201</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+    </results>
+    <options>
+        <maxResults>-1</maxResults>
+        <thumbMaps>true</thumbMaps>
+        <ignoreLatLngInput>false</ignoreLatLngInput>
+        <boundingBox/>
+    </options>
+</response>

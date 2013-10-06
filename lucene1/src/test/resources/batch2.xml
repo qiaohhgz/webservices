@@ -1,0 +1,385 @@
+<response>
+    <info>
+        <statusCode>0</statusCode>
+        <messages/>
+        <copyright>
+            <imageUrl>http://api.mqcdn.com/res/mqlogo.gif</imageUrl>
+            <imageAltText>© 2013 MapQuest, Inc.</imageAltText>
+            <text>© 2013 MapQuest, Inc.</text>
+        </copyright>
+    </info>
+    <results>
+        <result>
+            <providedLocation>
+                <location>York,PA</location>
+            </providedLocation>
+            <locations>
+                <location>...</location>
+                <location>...</location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>Red Lion</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street/>
+                    <adminArea5 type="City">Red Lion</adminArea5>
+                    <adminArea3 type="State">Pennsylvania</adminArea3>
+                    <adminArea4 type="County">York County</adminArea4>
+                    <postalCode/>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>CITY</geocodeQuality>
+                    <geocodeQualityCode>A5XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>39.900933</lat>
+                            <lng>-76.6058</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>39.900933</lat>
+                        <lng>-76.6058</lng>
+                    </latLng>
+                </location>
+                <location>
+                    <street/>
+                    <adminArea5 type="City">Red Lion</adminArea5>
+                    <adminArea3 type="State">Delaware</adminArea3>
+                    <adminArea4 type="County">New Castle</adminArea4>
+                    <postalCode/>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>CITY</geocodeQuality>
+                    <geocodeQualityCode>A5XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>39.608445</lat>
+                            <lng>-75.663819</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>39.608445</lat>
+                        <lng>-75.663819</lng>
+                    </latLng>
+                </location>
+                <location>
+                    <street/>
+                    <adminArea5 type="City">Red Lion</adminArea5>
+                    <adminArea3 type="State">Ohio</adminArea3>
+                    <adminArea4 type="County">Warren</adminArea4>
+                    <postalCode/>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>CITY</geocodeQuality>
+                    <geocodeQualityCode>A5XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>39.491448</lat>
+                            <lng>-84.24966</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>39.491448</lat>
+                        <lng>-84.24966</lng>
+                    </latLng>
+                </location>
+                <location>
+                    <street/>
+                    <adminArea5 type="City">Red Lion</adminArea5>
+                    <adminArea3 type="State">Pennsylvania</adminArea3>
+                    <adminArea4 type="County">Chester</adminArea4>
+                    <postalCode/>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>CITY</geocodeQuality>
+                    <geocodeQualityCode>A5XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>39.878165</lat>
+                            <lng>-75.681602</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>39.878165</lat>
+                        <lng>-75.681602</lng>
+                    </latLng>
+                </location>
+                <location>
+                    <street/>
+                    <adminArea5 type="City">Red Lion</adminArea5>
+                    <adminArea3 type="State">Pennsylvania</adminArea3>
+                    <adminArea4 type="County">Berks</adminArea4>
+                    <postalCode/>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>CITY</geocodeQuality>
+                    <geocodeQualityCode>A5XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>40.480652</lat>
+                            <lng>-75.616021</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>40.480652</lat>
+                        <lng>-75.616021</lng>
+                    </latLng>
+                </location>
+                <location>
+                    <street/>
+                    <adminArea5 type="City">Red Lion</adminArea5>
+                    <adminArea3 type="State">Colorado</adminArea3>
+                    <adminArea4 type="County">Logan</adminArea4>
+                    <postalCode/>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>CITY</geocodeQuality>
+                    <geocodeQualityCode>A5XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>40.891658</lat>
+                            <lng>-102.676858</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>40.891658</lat>
+                        <lng>-102.676858</lng>
+                    </latLng>
+                </location>
+                <location>
+                    <street/>
+                    <adminArea5 type="City">Red Lion</adminArea5>
+                    <adminArea3 type="State">New Jersey</adminArea3>
+                    <adminArea4 type="County">Middlesex</adminArea4>
+                    <postalCode/>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>CITY</geocodeQuality>
+                    <geocodeQualityCode>A5XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>40.443717</lat>
+                            <lng>-74.47043</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>40.443717</lat>
+                        <lng>-74.47043</lng>
+                    </latLng>
+                </location>
+                <location>
+                    <street/>
+                    <adminArea5 type="City">Red Lion</adminArea5>
+                    <adminArea3 type="State">New Jersey</adminArea3>
+                    <adminArea4 type="County">Burlington County</adminArea4>
+                    <postalCode/>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>CITY</geocodeQuality>
+                    <geocodeQualityCode>A5XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>39.889559</lat>
+                            <lng>-74.744604</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>39.889559</lat>
+                        <lng>-74.744604</lng>
+                    </latLng>
+                </location>
+                <location>
+                    <street/>
+                    <adminArea5 type="City">Red Lion</adminArea5>
+                    <adminArea3 type="State">Victoria</adminArea3>
+                    <adminArea4 type="County"/>
+                    <postalCode/>
+                    <adminArea1 type="Country">Australia</adminArea1>
+                    <geocodeQuality>CITY</geocodeQuality>
+                    <geocodeQualityCode>A5XAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>-37.166587</lat>
+                            <lng>143.747064</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>-37.166587</lat>
+                        <lng>143.747064</lng>
+                    </latLng>
+                </location>
+                <location>
+                    <street/>
+                    <adminArea5 type="City">London Borough of Waltham Forest</adminArea5>
+                    <adminArea3 type="State">England</adminArea3>
+                    <adminArea4 type="County">London</adminArea4>
+                    <postalCode>E11</postalCode>
+                    <adminArea1 type="Country">United Kingdom</adminArea1>
+                    <geocodeQuality>ZIP</geocodeQuality>
+                    <geocodeQualityCode>Z1XXX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>51.568051</lat>
+                            <lng>0.01133</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>51.568051</lat>
+                        <lng>0.01133</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>19036</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street/>
+                    <adminArea5 type="City">Glenolden</adminArea5>
+                    <adminArea3 type="State">Pennsylvania</adminArea3>
+                    <adminArea4 type="County">Delaware County</adminArea4>
+                    <postalCode>19036</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ZIP</geocodeQuality>
+                    <geocodeQualityCode>Z1XXA</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>39.904027</lat>
+                            <lng>-75.293722</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>39.904027</lat>
+                        <lng>-75.293722</lng>
+                    </latLng>
+                </location>
+                <location>
+                    <street>Boulevard d'Algérie</street>
+                    <adminArea5 type="City">Paris</adminArea5>
+                    <adminArea3 type="State">Île-de-France</adminArea3>
+                    <adminArea4 type="County">Paris</adminArea4>
+                    <postalCode>75020</postalCode>
+                    <adminArea1 type="Country">France</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XXX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>48.879579</lat>
+                            <lng>2.401197</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>48.879579</lat>
+                        <lng>2.401197</lng>
+                    </latLng>
+                </location>
+                <location>
+                    <street>Daimlerstraße</street>
+                    <adminArea5 type="City">Ottobrunn</adminArea5>
+                    <adminArea3 type="State">Free State of Bavaria</adminArea3>
+                    <adminArea4 type="County">Landkreis München</adminArea4>
+                    <postalCode/>
+                    <adminArea1 type="Country">Germany</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1XXX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>48.064194</lat>
+                            <lng>11.651403</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>48.064194</lat>
+                        <lng>11.651403</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+        <result>
+            <providedLocation>
+                <location>300 Granite Run Dr, Lancaster, PA</location>
+            </providedLocation>
+            <locations>
+                <location>
+                    <street>300 Granite Run Drive</street>
+                    <adminArea5 type="City">Lancaster</adminArea5>
+                    <adminArea3 type="State">Pennsylvania</adminArea3>
+                    <adminArea4 type="County">Lancaster County</adminArea4>
+                    <postalCode>17601</postalCode>
+                    <adminArea1 type="Country">United States of America</adminArea1>
+                    <geocodeQuality>ADDRESS</geocodeQuality>
+                    <geocodeQualityCode>L1CAX</geocodeQualityCode>
+                    <dragPoint>false</dragPoint>
+                    <sideOfStreet>N</sideOfStreet>
+                    <displayLatLng>
+                        <latLng>
+                            <lat>40.076423</lat>
+                            <lng>-76.330582</lng>
+                        </latLng>
+                    </displayLatLng>
+                    <linkId>0</linkId>
+                    <type>s</type>
+                    <latLng>
+                        <lat>40.076423</lat>
+                        <lng>-76.330582</lng>
+                    </latLng>
+                </location>
+            </locations>
+        </result>
+    </results>
+    <options>
+        <maxResults>-1</maxResults>
+        <thumbMaps>true</thumbMaps>
+        <ignoreLatLngInput>false</ignoreLatLngInput>
+        <boundingBox/>
+    </options>
+</response>

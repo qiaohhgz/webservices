@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="response" type="responseType"/>
+  <xs:complexType name="providedLocationType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="location"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="adminArea5Type">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="type" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="adminArea4Type">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="type" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="infoType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="statusCode"/>
+      <xs:element type="xs:string" name="messages"/>
+      <xs:element type="copyrightType" name="copyright"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="copyrightType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="imageUrl"/>
+      <xs:element type="xs:string" name="imageAltText"/>
+      <xs:element type="xs:string" name="text"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="latLngType">
+    <xs:sequence>
+      <xs:element name="lat">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="40.039972"/>
+            <xs:enumeration value="40.03813"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="lng">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="-76.306418"/>
+            <xs:enumeration value="-76.305669"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="locationsType">
+    <xs:sequence>
+      <xs:element type="locationType" name="location" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="optionsType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="maxResults"/>
+      <xs:element type="xs:string" name="thumbMaps"/>
+      <xs:element type="xs:string" name="ignoreLatLngInput"/>
+      <xs:element type="xs:string" name="boundingBox"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="responseType">
+    <xs:sequence>
+      <xs:element type="infoType" name="info"/>
+      <xs:element type="resultsType" name="results"/>
+      <xs:element type="optionsType" name="options"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="locationType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="street"/>
+      <xs:element type="adminArea5Type" name="adminArea5"/>
+      <xs:element type="adminArea3Type" name="adminArea3"/>
+      <xs:element type="adminArea4Type" name="adminArea4"/>
+      <xs:element type="xs:string" name="postalCode"/>
+      <xs:element type="adminArea1Type" name="adminArea1"/>
+      <xs:element type="xs:string" name="geocodeQuality"/>
+      <xs:element type="xs:string" name="geocodeQualityCode"/>
+      <xs:element type="xs:string" name="dragPoint"/>
+      <xs:element type="xs:string" name="sideOfStreet"/>
+      <xs:element type="displayLatLngType" name="displayLatLng"/>
+      <xs:element type="xs:string" name="linkId"/>
+      <xs:element type="xs:string" name="type"/>
+      <xs:element type="latLngType" name="latLng"/>
+      <xs:element name="mapUrl">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="
+                        
+http://open.mapquestapi.com/staticmap/v4/getmap?key=Fmjtd|luub2q6b29,2l=o5-961l1w&amp;type=map&amp;size=225,160&amp;pois=purple-1,40.03997225,-76.3064177339532,0,0|&amp;center=40.03997225,-76.3064177339532&amp;zoom=12&amp;rand=1115904123
+
+                    "/>
+            <xs:enumeration value="
+                        
+http://open.mapquestapi.com/staticmap/v4/getmap?key=Fmjtd|luub2q6b29,2l=o5-961l1w&amp;type=map&amp;size=225,160&amp;pois=purple-2,40.03813,-76.3056686,0,0|&amp;center=40.03813,-76.3056686&amp;zoom=12&amp;rand=1115904123
+
+                    "/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="adminArea1Type">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="type" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="resultType">
+    <xs:sequence>
+      <xs:element type="providedLocationType" name="providedLocation"/>
+      <xs:element type="locationsType" name="locations"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="resultsType">
+    <xs:sequence>
+      <xs:element type="resultType" name="result"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="displayLatLngType">
+    <xs:sequence>
+      <xs:element type="latLngType" name="latLng"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="adminArea3Type">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="type" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+</xs:schema>
